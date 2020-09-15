@@ -10,3 +10,10 @@ I love to lern programming in my free time.I lern it since 2018.Programming is f
 
 I’m going to start working as a Junior Front-End Developer in IT product this year. Want to be in a space, where people do huge useful things and make high demands on themselves.
 
+## Experience and education
+**BSUIR**
+*2015-2020*
+-------------------------------------------------------------------------------------------
+## Code examples
+[**github** @Wadimx199789](https://github.com/Wadimx199789)
+
