@@ -12,8 +12,29 @@ I’m going to start working as a Junior Front-End Developer in IT product this 
 
 ## Experience and education
 **BSUIR**
-*2015-2020*
+2015-2020
 -------------------------------------------------------------------------------------------
 ## Code examples
 [**github** @Wadimx199789](https://github.com/Wadimx199789)
+
+
+## Skills
+
+◾◾◾◾◾ Figma, Photoshop 
+◾◾◾◽◽ vscode 
+◾◾◽◽◽ HTML  
+◾◾◽◽◽ CSS  
+◾◾◾◽◽ GIT  
+◾◾◽◽◽ JS (ES5, ES6)  
+◾◾◾◽◽ C# 
+◾◾◾◽◽ SQL
+
+## English level is A2
+
+**Or Pre-Intermediate**
+
+## Contact me
+
+GitHub: [github.com/Wadimx199789](https://github.com/Wadimx199789)
+
 
