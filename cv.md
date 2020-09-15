@@ -20,14 +20,14 @@ I’m going to start working as a Junior Front-End Developer in IT product this 
 
 ## Skills
 
-◾◾◾◾◾ Figma, Photoshop 
-◾◾◾◽◽ vscode 
-◾◾◽◽◽ HTML  
-◾◾◽◽◽ CSS  
-◾◾◾◽◽ GIT  
-◾◾◽◽◽ JS (ES5, ES6)  
-◾◾◾◽◽ C# 
-◾◾◾◽◽ SQL
+* ◾◾◽◽◽ Figma, Photoshop 
+* ◾◾◾◽◽ vscode 
+* ◾◾◽◽◽ HTML  
+* ◾◾◽◽◽ CSS  
+* ◾◾◾◽◽ GIT  
+* ◾◾◽◽◽ JS (ES5, ES6)  
+* ◾◾◾◽◽ C# 
+* ◾◾◾◽◽ SQL
 
 ## English level is A2
 
