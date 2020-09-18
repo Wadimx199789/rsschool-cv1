@@ -1,3 +1,6 @@
+h1,h2{
+    font-weight: 900;
+}
 body{
     padding:0px;
     margin:0px;
@@ -31,10 +34,16 @@ body{
     display:flex;
     align-items: center;
 }
+ul{
+    padding:0px;
+}
 
 ul>li{
     list-style:none;
 }
 ul>li>a{
     text-decoration: none;
+}
+section{
+    margin-top:50px;
 }
